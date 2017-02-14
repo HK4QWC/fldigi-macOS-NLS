@@ -7,15 +7,11 @@ Currently, fldigi includes internationalization files for **Spanish** (es), **Fr
 
 ## Important information
 
-This repository has been created for the benefit of non-english speaking users running fldigi on macOS and want to enjoy fldigi GUI in their native language (if supported).
-
-To enable NLS support, fldigi's source code downloaded from https://sourceforge.net/p/fldigi/fldigi was build **without any modification** in a macOS Sierra v10.12.3 environment.
-
-It is possible that the fldigi binaries offered here work in earlier macOS and OS X versions, but I have not tested it; please run your own tests and let me know your findings.
-
-The fldigi internationalization process in a work in progress done by volunteers; it is possible that you will encounter some untranslated terms. 
-
-If your language is not supported by fldigi, please consider volunteer in a translation effor for the benefit of all the fldigi users community.
+* This repository has been created for the benefit of non-english speaking users running fldigi on macOS and want to enjoy fldigi GUI in their native language (if supported).
+* To enable NLS support, fldigi's source code downloaded from https://sourceforge.net/p/fldigi/fldigi was build **without any modification** in a macOS Sierra v10.12.3 environment.
+* It is possible that the fldigi binaries offered here work in earlier macOS and OS X versions, but I have not tested it; please run your own tests and let me know your findings.
+* The fldigi internationalization process in a work in progress done by volunteers; it is possible that you will encounter some untranslated terms. 
+* If your language is not supported by fldigi, please consider volunteer in a translation effor for the benefit of all the fldigi users community.
 
 ## Quick and easy how-to
 
