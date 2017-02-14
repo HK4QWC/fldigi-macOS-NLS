@@ -26,18 +26,18 @@ Si fldigi no soporta su idioma, por favor considere iniciar un proceso de traduc
 4. En el panel de preferencias EnvPanel configura la variable LANGUAGE con el lenguaje deseado. Los posibles valores para esta variable son: _es_, _fr_, _it_, _pl_, _de_ y _nl_.
 5. Ejecuta fldig.app disfrútalo en tu idioma!
 
-**Ten en cuenta que:**
+## Para tener en cuenta
 
-* Si en la variable LANGUAGE configuras un valor no soportado, fldigi presentará los mensajes de su GUI en inglés.
-* Si reconfiguras la variable LANGUAGE mientras fldigi esté ejecutándose, necesitarás cerrar y volver a abrir fldigi.app.
-* Si necesitas soporte sobre la operación de fldigi en macOS te recomiendo unirte al grupo [linuxham]https://groups.io/g/linuxham
+* Si en la variable LANGUAGE es configurada con un valor no soportado, fldigi presentará los mensajes de su GUI en inglés.
+* Si se reconfigura la variable LANGUAGE mientras fldigi se está ejecutando, es necesario cerrar y volver a abrir fldigi.app.
+* Si necesita soporte sobre la operación de fldigi en macOS le recomiendo unirse al grupo [linuxham]https://groups.io/g/linuxham
 
 ## Agradecimientos
 
 * Dave Freese (W1HKJ) y al grupo de colaboradores y desarrolladores de fldigi
-* Alberto Villegas Botero (HK4FZ) inspirarme a hacer lo que más me gusta 
+* Alberto Villegas Botero (HK4FZ) por inspirarme a hacer lo que más me gusta 
 * Pavel Milanés Costa (CO7WT) por introducirme al fantástico mundo de la i18n de software de fuente abierta
-* Tomás Clemente (EA5ICX) por motivarme a solucionar este pequeño inconveniente con macOS
+* Tomás Clemente (EA5ICX) por motivarme a solucionar este pequeño inconveniente de fldigi en macOS
 
 ## Acerca de fldigi
 
