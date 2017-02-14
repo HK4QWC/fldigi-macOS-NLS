@@ -45,7 +45,7 @@ reception reports to the PSK Automatic Propagation Reporter.
 
 The latest version can always be found at:
 
-  http://www.w1hkj.com/Fldigi.html
+  https://sourceforge.net/projects/fldigi/
 
 Visit this page for extensive documentation and an archive of XML files for
 transceivers supported by RigCAT.
