@@ -91,4 +91,4 @@ For support, news and updates, join one or more of the following mailing lists a
     Fldigi development topics
     https://sourceforge.net/p/fldigi/mailman/fldigi-devel/
     
-    Copyright (C) 2007-2010 Dave Freese, Stelios Bounanos, and others. License GPLv3+: GNU GPL version 3 or later http://www.gnu.org/licenses/gpl-3.0.html
+**Copyright (C) 2007-2010 Dave Freese, Stelios Bounanos, and others. License GPLv3+: GNU GPL version 3 or later http://www.gnu.org/licenses/gpl-3.0.html**
