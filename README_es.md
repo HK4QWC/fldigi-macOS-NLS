@@ -6,7 +6,7 @@ Aquí encontrarás **fldigi-3.23.21** (2017-01-30) y **fldigi-3.23.22.4** (2017-
 
 A la fecha, fldigi incluye los archivos de internacionalización para **español** (es), **francés** (fr), **italiano** (it), **polaco** (pl), **alemán** (de) and **neerlandés u holandés** (nl).
 
-##Información importante
+## Información importante
 
 Este repositorio se ha creado para el beneficio de los usuarios de fldigi que no usan inglés como su idioma primario y que quieren ver los mensajes de la interfaz de usuario en su idioma nativo.
 
@@ -18,7 +18,7 @@ El proceso de traducción de fldigi es un trabajo en progreso realizado por volu
 
 Si fldigi no soporta su idioma, por favor considere iniciar un proceso de traducción. Con gusto le orientaré en cómo hacerlo y así beneficiar a toda la comunidad de usuarios de fldigi.
 
-##Configuración rápida y fácil
+## Configuración rápida y fácil
 
 1. Descarga e instala [EnvPane](https://github.com/hschmidt/EnvPane), un panel de preferencias de OS X para manejar las variables de ambiente. Desarrollado por [Hannes Schmidt](https://diaryproducts.net/)
 2. Descarga [fldigi-3.23.21.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.21.dmg) o [fldigi-3.23.22.4.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.22.4.dmg)
@@ -32,7 +32,14 @@ Si fldigi no soporta su idioma, por favor considere iniciar un proceso de traduc
 * Si reconfiguras la variable LANGUAGE mientras fldigi esté ejecutándose, necesitarás cerrar y volver a abrir fldigi.app.
 * Si necesitas soporte sobre la operación de fldigi en macOS te recomiendo unirte al grupo [linuxham]https://groups.io/g/linuxham
 
-##Acerca de fldigi
+## Agradecimientos
+
+* Dave Freese (W1HKJ) y al grupo de colaboradores y desarrolladores de fldigi
+* Alberto Villegas Botero (HK4FZ) inspirarme a hacer lo que más me gusta 
+* Pavel Milanés Costa (CO7WT) por introducirme al fantástico mundo de la i18n de software de fuente abierta
+* Tomás Clemente (EA5ICX) por motivarme a solucionar este pequeño inconveniente con macOS
+
+## Acerca de fldigi
 
 Fldigi es un aplicativo de módem por software para uso de radioaficionados. Es un programa basado en tarjeta de audio usado para transmitir y recibir datos en cualquiera de los siguientes modos digitales:
 
@@ -89,4 +96,3 @@ Para obtener soporte, noticias y actualizaciones, inscríbase a alguna de las li
     https://sourceforge.net/p/fldigi/mailman/fldigi-devel/
     
     Copyright (C) 2007-2010 Dave Freese, Stelios Bounanos, and others. Licencia GPLv3+: GNU GPL versión 3 or posterior http://www.gnu.org/licenses/gpl-3.0.html
-    
