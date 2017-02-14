@@ -36,7 +36,7 @@ Si fldigi no soporta su idioma, por favor considere iniciar un proceso de traduc
 
 Fldigi es un aplicativo de módem por software para uso de radioaficionados. Es un programa basado en tarjeta de audio usado para transmitir y recibir datos en cualquiera de los siguientes modos digitales:
 
-BPSK y QPSK        31, 63, 125, 250 (ambos), and 63F and 500 (solo BPSK)
+BPSK y QPSK          31, 63, 125, 250 (ambos), and 63F and 500 (solo BPSK)
 PSKR                 125, 250, y 500
 CW                   velocidades desde 5 a 200 palabras por minuto
 DominoEX             4, 5, 8, 11, 16 y 22; también con FEC
