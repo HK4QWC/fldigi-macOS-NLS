@@ -13,9 +13,9 @@ To enable NLS support, fldigi's source code downloaded from https://sourceforge.
 
 It is possible that the fldigi binaries offered here work in earlier macOS and OS X versions, but I have not tested it.
 
-Please keep in mind that the fldigi internationalization process in a work in progress done by volunteers; it is possible that you will encounter some untranslated terms. 
+The fldigi internationalization process in a work in progress done by volunteers; it is possible that you will encounter some untranslated terms. 
 
-If your language is not supported by fldigi, please consider translating it for the benefit of all the fldigi community.
+If your language is not supported by fldigi, please consider volunteer in a translation effor for the benefit of all the fldigi users community.
 
 ##Quick and easy how-to
 
