@@ -11,7 +11,7 @@ This repository has been created for the benefit of non-english speaking users r
 
 To enable NLS support, fldigi's source code downloaded from https://sourceforge.net/p/fldigi/fldigi was build **without any modification** in a macOS Sierra v10.12.3 environment.
 
-It is possible that the fldigi binaries offered here work in earlier macOS and OS X versions, but I have not tested it.
+It is possible that the fldigi binaries offered here work in earlier macOS and OS X versions, but I have not tested it; please run your own tests and let me know your findings.
 
 The fldigi internationalization process in a work in progress done by volunteers; it is possible that you will encounter some untranslated terms. 
 
@@ -25,17 +25,18 @@ If your language is not supported by fldigi, please consider volunteer in a tran
 4. In the EnvPanel preference panel configure the variable LANGUAGE with the value of the language you want. Current possible values are: _es_, _fr_, _it_, _pl_, _de_ and _nl_.
 5. Run fldig.app and enjoy!
 
-**Keep in mind that:**
+## Keep in mind that
 
 * If you set an unsupported language value for the LANGUAGE variable, fldigi will use english for its GUI.
 * Fldigi must be restarted if you change the LANGUAGE variable while fldigi is running.
+* If you need support for using fldigi on macOS, please join the [linuxham]https://groups.io/g/linuxham group.
 
 ## Thanks
 
-Dave Freese (W1HKJ) and the fldigi colaborators and developers
-Alberto Villegas Botero (HK4FZ) for inspiring me do what I love most
-Pavel Milanés Costa (CO7WT) for introducing me to the fantastic world of OSS i18n
-Tomás Clemente (EA5ICX) por giving me enough motivation to solve this simple NLS issue with fldigi on macOS
+* Dave Freese (W1HKJ) and the fldigi colaborators and developers.
+* Alberto Villegas Botero (HK4FZ) for inspiring me do what I love most.
+* Pavel Milanés Costa (CO7WT) for introducing me to the fantastic world of OSS i18n.
+* Tomás Clemente (EA5ICX) por giving me enough motivation to solve this simple NLS issue with fldigi on macOS.
 
 ## About fldigi
 
