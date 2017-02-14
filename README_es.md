@@ -8,15 +8,11 @@ A la fecha, fldigi incluye los archivos de internacionalización para **español
 
 ## Información importante
 
-Este repositorio se ha creado para el beneficio de los usuarios de fldigi que no usan inglés como su idioma primario y que quieren ver los mensajes de la interfaz de usuario en su idioma nativo.
-
-Para activar este soporte, el código fuente descargado del sitio del proyecto de fldigi fué compilado **sin modificaciones** en un entorno macOS Sierra versión 10.12.3 activando el soporte NLS.
-
-Es posible que los binarios ofrecidos en este repositorio funcionen en versiones anteriores de macOS y OS X, pero no han sido verificadas.
-
-El proceso de traducción de fldigi es un trabajo en progreso realizado por voluntarios. Es posible que encuentre algunos términos sin traducir. 
-
-Si fldigi no soporta su idioma, por favor considere iniciar un proceso de traducción. Con gusto le orientaré en cómo hacerlo y así beneficiar a toda la comunidad de usuarios de fldigi.
+* Este repositorio se ha creado para el beneficio de los usuarios de fldigi que no usan inglés como su idioma primario y que quieren ver los mensajes de la interfaz de usuario en su idioma nativo.
+* Para activar este soporte, el código fuente descargado del sitio del proyecto de fldigi fué compilado **sin modificaciones** en un entorno macOS Sierra versión 10.12.3 activando el soporte NLS.
+* Es posible que los binarios ofrecidos en este repositorio funcionen en versiones anteriores de macOS y OS X, pero no han sido verificadas. Por favor pruébelo en su sistema y déjeme saber si funciona.
+* El proceso de traducción de fldigi es un trabajo en progreso realizado por voluntarios. Es posible que encuentre algunos términos sin traducir. 
+* Si fldigi no soporta su idioma, por favor considere iniciar un proceso de traducción. Con gusto le orientaré en cómo hacerlo y así beneficiar a toda la comunidad de usuarios de fldigi.
 
 ## Configuración rápida y fácil
 
