@@ -14,7 +14,7 @@ Para activar este soporte, el código fuente descargado del sitio del proyecto d
 
 Es posible que los binarios ofrecidos en este repositorio funcionen en versiones anteriores de macOS y OS X, pero no han sido verificadas.
 
-Tenga en cuenta que el proceso de traducción de fldigi es un trabajo en progreso realizado por voluntarios. Es posible que encuentre algunos términos sin traducir. 
+El proceso de traducción de fldigi es un trabajo en progreso realizado por voluntarios. Es posible que encuentre algunos términos sin traducir. 
 
 Si fldigi no soporta su idioma, por favor considere iniciar un proceso de traducción. Con gusto le orientaré en cómo hacerlo y así beneficiar a toda la comunidad de usuarios de fldigi.
 
