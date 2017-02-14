@@ -1,5 +1,7 @@
 #Build information:
 
+This is the build information of the fldigi-3.23.21 and fldigi-3.23.22.4 compiled binaries. This is a work in progress and the configure, compiler and linker flags will be changed in the future. Both binaries were compiled with static libraries.
+
 ##built
 Tue Feb 14 12:56:45 COT 2017 by ccorrea@Alterego.local on x86_64-apple-darwin16.4.0 for x86_64-apple-darwin16.4.0
 
