@@ -85,11 +85,11 @@ Para obtener soporte, noticias y actualizaciones, inscríbase a alguna de las li
     Enfoque especial en operaciones NBEMS (Narrow Band Emergency Messaging Software)
     http://groups.yahoo.com/group/NBEMSham/
 
-  * Liata fldigi-alpha 
+  * Lista fldigi-alpha 
     Discusiones sobre pruebas de fldigi y temas asociados
     https://sourceforge.net/p/fldigi/mailman/fldigi-alpha/
 
-  * lista fldigi-devel
+  * Lista fldigi-devel
     Temas relacionados con el desarrollo de fldigi
     https://sourceforge.net/p/fldigi/mailman/fldigi-devel/
     
