@@ -39,19 +39,19 @@ A la fecha, fldigi incluye los archivos de internacionalización para **español
 
 Fldigi es un aplicativo de módem por software para uso de radioaficionados. Es un programa basado en tarjeta de audio usado para transmitir y recibir datos en cualquiera de los siguientes modos digitales:
 
-BPSK y QPSK          31, 63, 125, 250 (ambos), and 63F and 500 (solo BPSK)
-PSKR                 125, 250, y 500
-CW                   velocidades desde 5 a 200 palabras por minuto
-DominoEX             4, 5, 8, 11, 16 y 22; también con FEC
-Hellschreiber        Feld Hell, Slow Hell, Hell x5/x9, FSKHell(-105) y Hell 80
-MFSK                 4, 8, 11, 16, 22, 31, 32 y 64; la mayoría con soporte de imagen
-MT63                 500, 1000 y 2000
-OLIVIA               varios tonos y anchos de banda
-RTTY                 varias tasas de baudios, desplazamientos, número de bits de datos, etc.
-THOR                 4, 5, 8, 11, 16 y 22
-Throb y ThrobX       1, 2, y 4
-WWV                  solo recepción - calibre su tarjeta de audio con WWV
-Frequency Analysis   solo recepción - mida la frecuencia de una portadora
+* BPSK y QPSK          31, 63, 125, 250 (ambos), and 63F and 500 (solo BPSK)
+* PSKR                 125, 250, y 500
+* CW                   velocidades desde 5 a 200 palabras por minuto
+* DominoEX             4, 5, 8, 11, 16 y 22; también con FEC
+* Hellschreiber        Feld Hell, Slow Hell, Hell x5/x9, FSKHell(-105) y Hell 80
+* MFSK                 4, 8, 11, 16, 22, 31, 32 y 64; la mayoría con soporte de imagen
+* MT63                 500, 1000 y 2000
+* OLIVIA               varios tonos y anchos de banda
+* RTTY                 varias tasas de baudios, desplazamientos, número de bits de datos, etc.
+* THOR                 4, 5, 8, 11, 16 y 22
+* Throb y ThrobX       1, 2, y 4
+* WWV                  solo recepción - calibre su tarjeta de audio con WWV
+* Frequency Analysis   solo recepción - mida la frecuencia de una portadora
 
 Fldigi puede controlar un transceptor usando Hamlib o RigCAT I/O, realizar búsquedas en línea o en cdrom en la base de datos de QRZ, registrar QSOs en el libro de guardia incorporado o con Xlog, y enviar reportes de recepción al sistema de reporte automático de propagación PSK.
 
