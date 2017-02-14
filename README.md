@@ -5,7 +5,7 @@ Here you will find **fldigi-3.23.21** (2017-01-30) and **fldigi-3.23.22.4** (201
 
 Currently, fldigi includes internationalization files for **Spanish** (es), **French** (fr), **Italian** (it), **Polish** (pl), **German** (de) and **Dutch** (nl).
 
-##Important information
+## Important information
 
 This repository has been created for the benefit of non-english speaking users running fldigi on macOS and want to enjoy fldigi GUI in their native language (if supported).
 
@@ -17,7 +17,7 @@ The fldigi internationalization process in a work in progress done by volunteers
 
 If your language is not supported by fldigi, please consider volunteer in a translation effor for the benefit of all the fldigi users community.
 
-##Quick and easy how-to
+## Quick and easy how-to
 
 1. Download and install [EnvPane](https://github.com/hschmidt/EnvPane), an OS X preference pane for environment variables developed by [Hannes Schmidt](https://diaryproducts.net/)
 2. Downlad [fldigi-3.23.21.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.21.dmg) or [fldigi-3.23.22.4.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.22.4.dmg)
@@ -30,7 +30,14 @@ If your language is not supported by fldigi, please consider volunteer in a tran
 * If you set an unsupported language value for the LANGUAGE variable, fldigi will use english for its GUI.
 * Fldigi must be restarted if you change the LANGUAGE variable while fldigi is running.
 
-##About fldigi
+## Thanks
+
+Dave Freese (W1HKJ) and the fldigi colaborators and developers
+Alberto Villegas Botero (HK4FZ) for inspiring me do what I love most
+Pavel Milanés Costa (CO7WT) for introducing me to the fantastic world of OSS i18n
+Tomás Clemente (EA5ICX) por giving me enough motivation to solve this simple NLS issue with fldigi on macOS
+
+## About fldigi
 
 Fldigi is a software modem for Amateur Radio use. It is a sound card based program that is used for both transmitting and receiving data in any of the following modes:
 
