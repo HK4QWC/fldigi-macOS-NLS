@@ -24,7 +24,7 @@ Currently, fldigi includes internationalization files for **Spanish** (es), **Fr
 5. Run fldig.app and enjoy it in your language!
 6. Do not forget to review fldigi's configuration, and make sure that the Portaudio server is active.
 
-## Keep in mind that
+## Keep in mind that...
 
 * If you set an unsupported language value for the _LANGUAGE_ variable, fldigi will use english for its GUI.
 * Fldigi must be restarted if you change the _LANGUAGE_ variable while fldigi is running.

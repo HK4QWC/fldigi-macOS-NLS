@@ -24,7 +24,7 @@ A la fecha, fldigi incluye los archivos de internacionalización para **español
 5. Ejecute fldig.app y, ¡disfrútelo en su idioma!
 6. Recuerde revisar la configuración de fldigi, y asegúrese que el servidor Portaudio esté habilitado en "Configuración > Dispositivos de sonido > Dispositivos".
 
-## Para tener en cuenta
+## Tenga en cuenta que...
 
 * Si la variable _LANGUAGE_ es configurada con un valor no soportado, fldigi mostrará los mensajes en inglés.
 * Si se reconfigura la variable _LANGUAGE_ mientras fldigi está funcionando, es necesario cerrar y volver a abrir fldigi.
