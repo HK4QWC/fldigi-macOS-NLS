@@ -1,8 +1,8 @@
 # fldigi-macOS-NLS
 
-Este es un repositorio para los binarios de fldigi con soporte para NLS y compilados para **macOS Sierra**.
+fldigi-macOS-NLS es un repositorio para los archivos binarios de fldigi con soporte para NLS y compilados para **macOS Sierra**.
 
-Aquí encontrarás **fldigi-3.23.21** (2017-01-30) y **fldigi-3.23.22.4** (2017-02-13).
+Aquí encontrará **[fldigi-3.23.21.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.21.dmg)** (2017-01-30) y **[fldigi-3.23.22.4.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.22.4.dmg)** (2017-02-13).
 
 A la fecha, fldigi incluye los archivos de internacionalización para **español** (es), **francés** (fr), **italiano** (it), **polaco** (pl), **alemán** (de) and **neerlandés u holandés** (nl).
 
@@ -16,11 +16,12 @@ A la fecha, fldigi incluye los archivos de internacionalización para **español
 
 ## Configuración rápida y fácil
 
-1. Descarga e instala [EnvPane](https://github.com/hschmidt/EnvPane), un panel de preferencias de OS X para manejar las variables de ambiente. Desarrollado por [Hannes Schmidt](https://diaryproducts.net/)
-2. Descarga [fldigi-3.23.21.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.21.dmg) o [fldigi-3.23.22.4.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.22.4.dmg)
-3. Abre el archivo DMG descargado y copia fldigi.app a la carpeta Aplicaciones de MacOS 
-4. En el panel de preferencias EnvPanel configura la variable LANGUAGE con el lenguaje deseado. Los posibles valores para esta variable son: _es_, _fr_, _it_, _pl_, _de_ y _nl_.
-5. Ejecuta fldig.app disfrútalo en tu idioma!
+1. Descargue e instale [EnvPane](https://github.com/hschmidt/EnvPane), un panel de preferencias de OS X para manejar las variables de ambiente. Desarrollado por [Hannes Schmidt](https://diaryproducts.net/)
+2. Descargue [fldigi-3.23.21.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.21.dmg) que es la versión estable actual o [fldigi-3.23.22.4.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.22.4.dmg) que es la versión alfa más reciente.
+3. Abra el archivo DMG descargado y copie fldigi.app a la carpeta Aplicaciones de MacOS 
+4. En el panel de preferencias EnvPanel configure la variable LANGUAGE con el lenguaje deseado. Los posibles valores para esta variable son: _es_, _fr_, _it_, _pl_, _de_ y _nl_.
+5. Ejecute fldig.app y disfrútelo en su idioma!
+6. Recuerde revisar la configuración de fldigi, en especial la configuración de los dispositivos de sonido seleccionando la interfaz Portaudio.
 
 ## Para tener en cuenta
 
@@ -30,10 +31,10 @@ A la fecha, fldigi incluye los archivos de internacionalización para **español
 
 ## Agradecimientos
 
-* Dave Freese (W1HKJ) y al grupo de colaboradores y desarrolladores de fldigi
-* Alberto Villegas Botero (HK4FZ) por inspirarme a hacer lo que más me gusta 
-* Pavel Milanés Costa (CO7WT) por introducirme al fantástico mundo de la i18n de software de fuente abierta
-* Tomás Clemente (EA5ICX) por motivarme a solucionar este pequeño inconveniente de fldigi en macOS
+* Dave Freese (W1HKJ) y al grupo de colaboradores y desarrolladores de fldigi.
+* Alberto Villegas Botero (HK4FZ) por inspirarme a hacer lo que más me gusta. 
+* Pavel Milanés Costa (CO7WT) por introducirme al fantástico mundo de la i18n de software de fuente abierta.
+* Tomás Clemente (EA5ICX) por motivarme a solucionar este pequeño inconveniente de fldigi en macOS.
 
 ## Acerca de fldigi
 
@@ -57,40 +58,24 @@ Fldigi es un aplicativo de módem por software para uso de radioaficionados. Es 
 
 Fldigi puede controlar un transceptor usando Hamlib o RigCAT I/O, realizar búsquedas en línea o en cdrom en la base de datos de QRZ, registrar QSOs en el libro de guardia incorporado o con Xlog, y enviar reportes de recepción al sistema de reporte automático de propagación PSK.
 
-La versión más reciente siempre estará disponible en:
+La versión más reciente siempre estará disponible [http://www.w1hkj.com/](http://www.w1hkj.com/).
 
-  http://www.w1hkj.com/
+En esta página encontrará una extensa documentación y una colección de archivos XML para controlar los transceptores soportados por RigCAT.
 
-En esta página encontrarás una extensa documentación y una colección de archivos XML para controlar los transceptores soportados por RigCAT.
+El wiki contiene la lista de preguntas frecuentes FAQs, HOWTOs y enlaces a todos los recursos de fldigi[https://fedorahosted.org/fldigi/](https://fedorahosted.org/fldigi/).
 
-El wiki contiene la lista de preguntas frecuentes FAQs, HOWTOs y enlaces a todos los recursos de fldigi:
+El repositorio GIT se encuentra en [https://sourceforge.net/p/fldigi/fldigi/ci/master/tree/](https://sourceforge.net/p/fldigi/fldigi/ci/master/tree/).
 
-  https://fedorahosted.org/fldigi/
+Para obtener soporte, noticias y actualizaciones, inscríbase a alguna de las listas de correo o los grupos de discusión. Los anuncios de nuevas versiones estables se hacen en todas las listas y grupos; Las versiones de prueba solo se  anuncian en fldigi-alpha y fldigi-announce.
 
-El repositorio GIT se encuentra en:
+* Grupo linuxham: Discusiones generales sobre fldigi, software y otros temas relacionados con la radioafición [https://groups.io/g/linuxham](https://groups.io/g/linuxham).
 
-  https://sourceforge.net/p/fldigi/fldigi/ci/master/tree/
+* Grupo win-fldigi: Para usuarios de fldigi en Windows [http://groups.yahoo.com/group/win-fldigi/](http://groups.yahoo.com/group/win-fldigi/).
 
-Para obtener soporte, noticias y actualizaciones, inscríbase a alguna de las listas de correo o los grupos de discusión. Los lanzamientos de versiones estables se anuncian en todas las listas y grupos; Las versiones de prueba se anuncian en fldigi-alpha y fldigi-announce.
+* Grupo NBEMSham: Grupo con especial enfoque en operaciones NBEMS (Narrow Band Emergency Messaging Software) [http://groups.yahoo.com/group/NBEMSham/](http://groups.yahoo.com/group/NBEMSham/). 
 
-  * grupo linuxham
-    Discusiones generales sobre fldigi, software y otros temas relacionados con la radioafición.
-   https://groups.io/g/linuxham
-
-  * grupo win-fldigi
-    Para usuarios de fldigi en Windows
-    http://groups.yahoo.com/group/win-fldigi/
-
-  * Grupo NBEMSham
-    Enfoque especial en operaciones NBEMS (Narrow Band Emergency Messaging Software)
-    http://groups.yahoo.com/group/NBEMSham/
-
-  * Lista fldigi-alpha 
-    Discusiones sobre pruebas de fldigi y temas asociados
-    https://sourceforge.net/p/fldigi/mailman/fldigi-alpha/
-
-  * Lista fldigi-devel
-    Temas relacionados con el desarrollo de fldigi
-    https://sourceforge.net/p/fldigi/mailman/fldigi-devel/
+* Lista fldigi-alpha: Discusiones sobre pruebas de fldigi y temas relacionados [https://sourceforge.net/p/fldigi/mailman/fldigi-alpha/](https://sourceforge.net/p/fldigi/mailman/fldigi-alpha/).
     
+* Lista fldigi-devel: Temas relacionados con el desarrollo de fldigi [https://sourceforge.net/p/fldigi/mailman/fldigi-devel/](https://sourceforge.net/p/fldigi/mailman/fldigi-devel/).
+     
 **Copyright (C) 2007-2010 Dave Freese, Stelios Bounanos, y otros.** Licencia GPLv3+: GNU GPL versión 3 or posterior http://www.gnu.org/licenses/gpl-3.0.html
