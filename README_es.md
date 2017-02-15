@@ -1,4 +1,5 @@
 # fldigi-macOS-NLS
+[Read it in English](README.md)
 
 fldigi-macOS-NLS es un repositorio para los archivos binarios de fldigi con soporte para NLS y compilados para **macOS Sierra**.
 
