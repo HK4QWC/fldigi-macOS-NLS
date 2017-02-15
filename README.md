@@ -2,6 +2,8 @@
 
 fldigi-macOS-NLS is a repository for fldigi binary files with NLS support compiled for **macOS Sierra**.
 
+[En español](README_es.md)
+
 Here you will find **[fldigi-3.23.21.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.21.dmg)** (2017-01-30) and **[fldigi-3.23.22.4.dmg](https://github.com/HK4QWC/fldigi-macOS-NLS/blob/master/fldigi-3.23.22.4.dmg)** (2017-02-13).
 
 Currently, fldigi includes internationalization files for **Spanish** (es), **French** (fr), **Italian** (it), **Polish** (pl), **German** (de) and **Dutch** (nl).
